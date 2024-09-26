@@ -802,7 +802,7 @@
         },
         {
             "name": "Micah Walker",
-            "role": "Eage Origins Venture Studio",
+            "role": "Eagle Origins Venture Studio",
             "isHeading": false
         },
         {
@@ -811,7 +811,7 @@
             "isHeading": false
         },
         {
-            "name": "Sandy Atkinson & Louis Trochatos",
+            "name": "Louis and Sandy",
             "role": "SLAM IO Product Design",
             "isHeading": false
         },
@@ -1507,6 +1507,11 @@
         },
         {
             "name": "Duncan Rule",
+            "role": "",
+            "isHeading": false
+        },
+         {
+            "name": "Don Belovich",
             "role": "",
             "isHeading": false
         },
