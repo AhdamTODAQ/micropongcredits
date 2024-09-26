@@ -3,10 +3,12 @@
         {
             "name": "MICROPONG CREDITS",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "TODAQ",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Hassan Khan",
@@ -23,6 +25,7 @@
         {
             "name": "The Engine Room",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Dann Toliver",
@@ -123,6 +126,7 @@
         {
             "name": "The Micronauts",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Nick Mumford",
@@ -211,6 +215,7 @@
         {
             "name": "microPONG cell",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Hassan Khan",
@@ -247,6 +252,7 @@
         {
             "name": "Micropong Artist Team",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Tara Jam",
@@ -275,6 +281,7 @@
         {
             "name": "TODA Protocol",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Dann Toliver",
@@ -287,6 +294,7 @@
         {
             "name": "TODA File Technology",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Dann Toliver",
@@ -323,6 +331,7 @@
         {
             "name": "ADOT Protocol",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Dann Toliver",
@@ -335,6 +344,7 @@
         {
             "name": "TDN",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Starwater Heaven",
@@ -343,6 +353,7 @@
         {
             "name": "Nine Strong People",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Sheldon Inwentash",
@@ -383,6 +394,7 @@
         {
             "name": "Advisors",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Sheldon Inwentash",
@@ -467,6 +479,7 @@
         {
             "name": "Partners",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Carl Travis",
@@ -687,6 +700,7 @@
         {
             "name": "Our thanks to the following Corporations and Institutions",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Oracle",
@@ -835,6 +849,7 @@
         {
             "name": "Innovators and Builders at the Developer Camp Hackathon",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Niye Turner",
@@ -897,8 +912,9 @@
             "role": "Ranked Choice Voting"
         },
         {
-            "name": "Innovators and Builders at the  Cambridge Blockchain Society Hackathon",
+            "name": "Innovators and Builders at the Cambridge Blockchain Society Hackathon",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Joel Daniel Thavapalan",
@@ -1031,6 +1047,7 @@
         {
             "name": "Innovators and Builders at the University of Toronto Hackathon",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Anthony Gruzkovnjak",
@@ -1051,6 +1068,7 @@
         {
             "name": "Food & the Home away from Home Team",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Yorkville Crepes ",
@@ -1067,6 +1085,7 @@
         {
             "name": "Spirit Team",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Kepler",
@@ -1095,6 +1114,7 @@
         {
             "name": "Supporters",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Kayhan Mirza",
@@ -1367,6 +1387,7 @@
         {
             "name": "Host Cities",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Toronto, Canada",
@@ -1435,6 +1456,7 @@
         {
             "name": "In Memoriam",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Mark Walden",
@@ -1455,14 +1477,17 @@
         {
             "name": "To all our spouses, family, children and friends without whose love, support and contributions this would not have been possible",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "TODAQ's mission is to make humans stronger, with integrity, and without judgment",
             "role": ""
+	    "isHeading": true
         },
         {
             "name": "Join us",
             "role": ""
+	    "isHeading": true
         }
     ]
 }
