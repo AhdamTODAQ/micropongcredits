@@ -856,7 +856,7 @@
             "isHeading": false
         },
         {
-            "name": "Our thanks to the following Corporations and Institutions",
+            "name": "Corporations and Institutions",
             "role": "",
             "isHeading": true
         },
@@ -1041,7 +1041,7 @@
             "isHeading": false
         },
         {
-            "name": "Innovators and Builders at the Developer Camp Hackathon",
+            "name": "Developer Camp Hackathon",
             "role": "",
             "isHeading": true
         },
@@ -1121,7 +1121,7 @@
             "isHeading": false
         },
         {
-            "name": "Innovators and Builders at the Cambridge Blockchain Society Hackathon",
+            "name": "Cambridge Blockchain Society Hackathon",
             "role": "",
             "isHeading": true
         },
@@ -1286,7 +1286,7 @@
             "isHeading": false
         },
         {
-            "name": "Innovators and Builders at the University of Toronto Hackathon",
+            "name": "University of Toronto Hackathon",
             "role": "",
             "isHeading": true
         },
