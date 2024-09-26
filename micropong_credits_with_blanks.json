@@ -2,12 +2,12 @@
     "credits": [
         {
             "name": "MICROPONG CREDITS",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
             "name": "TODAQ",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -24,7 +24,7 @@
         },
         {
             "name": "The Engine Room",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -125,7 +125,7 @@
         },
         {
             "name": "The Micronauts",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "name": "microPONG cell",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -243,7 +243,7 @@
         },
         {
             "name": "Ahdam Wakil",
-            "role": "Product Design"
+            "role": "Product Designer"
         },
         {
             "name": "Karina Valrani",
@@ -251,7 +251,7 @@
         },
         {
             "name": "Micropong Artist Team",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -280,7 +280,7 @@
         },
         {
             "name": "TODA Protocol",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -293,7 +293,7 @@
         },
         {
             "name": "TODA File Technology",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -330,7 +330,7 @@
         },
         {
             "name": "ADOT Protocol",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -343,7 +343,7 @@
         },
         {
             "name": "TDN",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -352,7 +352,7 @@
         },
         {
             "name": "Nine Strong People",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -393,7 +393,7 @@
         },
         {
             "name": "Advisors",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -478,7 +478,7 @@
         },
         {
             "name": "Partners",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -699,7 +699,7 @@
         },
         {
             "name": "Our thanks to the following Corporations and Institutions",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -848,7 +848,7 @@
         },
         {
             "name": "Innovators and Builders at the Developer Camp Hackathon",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -913,7 +913,7 @@
         },
         {
             "name": "Innovators and Builders at the Cambridge Blockchain Society Hackathon",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -1046,7 +1046,7 @@
         },
         {
             "name": "Innovators and Builders at the University of Toronto Hackathon",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -1067,7 +1067,7 @@
         },
         {
             "name": "Food & the Home away from Home Team",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -1084,7 +1084,7 @@
         },
         {
             "name": "Spirit Team",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -1113,7 +1113,7 @@
         },
         {
             "name": "Supporters",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -1386,7 +1386,7 @@
         },
         {
             "name": "Host Cities",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -1455,7 +1455,7 @@
         },
         {
             "name": "In Memoriam",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
@@ -1476,17 +1476,17 @@
         },
         {
             "name": "To all our spouses, family, children and friends without whose love, support and contributions this would not have been possible",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
             "name": "TODAQ's mission is to make humans stronger, with integrity, and without judgment",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         },
         {
             "name": "Join us",
-            "role": ""
+            "role": "",
 	    "isHeading": true
         }
     ]
