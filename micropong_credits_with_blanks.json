@@ -1,0 +1,1468 @@
+{
+    "credits": [
+        {
+            "name": "MICROPONG CREDITS",
+            "role": ""
+        },
+        {
+            "name": "TODAQ",
+            "role": ""
+        },
+        {
+            "name": "Hassan Khan",
+            "role": "Co-Founder & CEO"
+        },
+        {
+            "name": "Dann Toliver",
+            "role": "Co-Founder & TODA Co-Author"
+        },
+        {
+            "name": "Toufi Saliba",
+            "role": "Co-Founder & TODA Co-Author"
+        },
+        {
+            "name": "The Engine Room",
+            "role": ""
+        },
+        {
+            "name": "Dann Toliver",
+            "role": "Chief Science Officer"
+        },
+        {
+            "name": "Adam Gravitis",
+            "role": "Chief Technology Officer"
+        },
+        {
+            "name": "Matthew Mihok",
+            "role": "Lead TAPP Engineer"
+        },
+        {
+            "name": "Alex Fertman",
+            "role": "Engineer"
+        },
+        {
+            "name": "Kris Coward",
+            "role": "Engineer"
+        },
+        {
+            "name": "Cory Sulpizi",
+            "role": "Engineer"
+        },
+        {
+            "name": "Mike Everson",
+            "role": "Engineer"
+        },
+        {
+            "name": "Sandy Atkinson",
+            "role": "Engineer"
+        },
+        {
+            "name": "Alex Williams",
+            "role": "Engineer"
+        },
+        {
+            "name": "George Tzoganakis",
+            "role": "Engineer"
+        },
+        {
+            "name": "Chris Kellendonk",
+            "role": "Engineer"
+        },
+        {
+            "name": "Andrew Blinn",
+            "role": "Engineer"
+        },
+        {
+            "name": "Jon Irving",
+            "role": "Engineer"
+        },
+        {
+            "name": "Dmitri Sotnikov ",
+            "role": "Engineer"
+        },
+        {
+            "name": "Erik Derohanian ",
+            "role": "Engineer"
+        },
+        {
+            "name": "Frank Wang",
+            "role": "Engineer"
+        },
+        {
+            "name": "Louis Trochatos ",
+            "role": "Engineer"
+        },
+        {
+            "name": "Tyler Sloane ",
+            "role": "Engineer"
+        },
+        {
+            "name": "Leo Zovic",
+            "role": "Engineer"
+        },
+        {
+            "name": "Brandon Flowers ",
+            "role": "Engineer"
+        },
+        {
+            "name": "Robert Moir",
+            "role": "Engineer"
+        },
+        {
+            "name": "Barry Rowe",
+            "role": "Engineer"
+        },
+        {
+            "name": "Mansoor Ahmed-Rengers",
+            "role": "Researcher"
+        },
+        {
+            "name": "Carlos Molina-Jimenez",
+            "role": "Researcher"
+        },
+        {
+            "name": "The Micronauts",
+            "role": ""
+        },
+        {
+            "name": "Nick Mumford",
+            "role": "Chief Financial Officer"
+        },
+        {
+            "name": "Susana Khan",
+            "role": "Entrepreneur-in-Residence"
+        },
+        {
+            "name": "Aman Chatha",
+            "role": "Advisor"
+        },
+        {
+            "name": "Tara Jam",
+            "role": "Artist-in-Residence"
+        },
+        {
+            "name": "Ahdam Wakil",
+            "role": "Product Designer"
+        },
+        {
+            "name": "Bharat Choudary",
+            "role": "Book Keeper"
+        },
+        {
+            "name": "Greg Hanniman",
+            "role": "Operations"
+        },
+        {
+            "name": "Shermineh Salehi Esmati",
+            "role": "Corporate Development"
+        },
+        {
+            "name": "Tahir Ahmed",
+            "role": "General Counsel"
+        },
+        {
+            "name": "Charlie Shin",
+            "role": "TODAQ Global Solutions South Korea"
+        },
+        {
+            "name": "Sung Soo Park",
+            "role": "TODAQ Global Solutions South Korea"
+        },
+        {
+            "name": "Jihoon Logan Lee",
+            "role": "STAR Program"
+        },
+        {
+            "name": "Bill Beller",
+            "role": "STAR Program"
+        },
+        {
+            "name": "Winter Wei ",
+            "role": "User Interface and Experience Design"
+        },
+        {
+            "name": "Jennifer Bae ",
+            "role": "Office Manager - Seoul"
+        },
+        {
+            "name": "Amer Pasha",
+            "role": "Special prjects - Dubai"
+        },
+        {
+            "name": "Christiane Wherry",
+            "role": "Technology Development Opportunities"
+        },
+        {
+            "name": "Artem Milinchuk",
+            "role": "Aide-De-Camp"
+        },
+        {
+            "name": "Arjun Ghose",
+            "role": "Corporate Development"
+        },
+        {
+            "name": "Farrah Yassin",
+            "role": "Investor Relations"
+        },
+        {
+            "name": "Anastasia Magafas",
+            "role": "Operations - Bucharest"
+        },
+        {
+            "name": "microPONG cell",
+            "role": ""
+        },
+        {
+            "name": "Hassan Khan",
+            "role": "Game Creator"
+        },
+        {
+            "name": "Dann Toliver",
+            "role": "Tehnical Advisor"
+        },
+        {
+            "name": "Adam Gravitis",
+            "role": "CTO"
+        },
+        {
+            "name": "Matthew Mihok",
+            "role": "Lead TAPP Engineer"
+        },
+        {
+            "name": "Erik Derohanian",
+            "role": "Engineer"
+        },
+        {
+            "name": "Sacha Fertman",
+            "role": "Engineer"
+        },
+        {
+            "name": "Ahdam Wakil",
+            "role": "Product Design"
+        },
+        {
+            "name": "Karina Valrani",
+            "role": "Intern"
+        },
+        {
+            "name": "Micropong Artist Team",
+            "role": ""
+        },
+        {
+            "name": "Tara Jam",
+            "role": "\"Closer\""
+        },
+        {
+            "name": "Sean Leon",
+            "role": "\"Good Morning\""
+        },
+        {
+            "name": "Frances Gilbert",
+            "role": "\"Where did that girl go\""
+        },
+        {
+            "name": "Nanu",
+            "role": "\"Adentro\""
+        },
+        {
+            "name": "SPVDE",
+            "role": "Studio"
+        },
+        {
+            "name": "Evrtools",
+            "role": "Audio Marketplace"
+        },
+        {
+            "name": "TODA Protocol",
+            "role": ""
+        },
+        {
+            "name": "Dann Toliver",
+            "role": "Co-Author"
+        },
+        {
+            "name": "Toufi Saliba",
+            "role": "Co-Author"
+        },
+        {
+            "name": "TODA File Technology",
+            "role": ""
+        },
+        {
+            "name": "Dann Toliver",
+            "role": "Author"
+        },
+        {
+            "name": "Kris Coward",
+            "role": "Co-Author"
+        },
+        {
+            "name": "Adam Gravitis",
+            "role": "Implementor"
+        },
+        {
+            "name": "Cory Sulpizi",
+            "role": "Implementor"
+        },
+        {
+            "name": "Alexander Fertman",
+            "role": "Implementor"
+        },
+        {
+            "name": "Mike Everson",
+            "role": "Implementor"
+        },
+        {
+            "name": "Robert Moir",
+            "role": "Implementor"
+        },
+        {
+            "name": "Jon Levin",
+            "role": "Implementor"
+        },
+        {
+            "name": "ADOT Protocol",
+            "role": ""
+        },
+        {
+            "name": "Dann Toliver",
+            "role": "Co-Author"
+        },
+        {
+            "name": "Adam Gravitis",
+            "role": "Co-Author"
+        },
+        {
+            "name": "TDN",
+            "role": ""
+        },
+        {
+            "name": "Starwater Heaven",
+            "role": "Author"
+        },
+        {
+            "name": "Nine Strong People",
+            "role": ""
+        },
+        {
+            "name": "Sheldon Inwentash",
+            "role": "Champion"
+        },
+        {
+            "name": "Jose Arrieta",
+            "role": "Champion"
+        },
+        {
+            "name": "Aly Dahya",
+            "role": "Champion"
+        },
+        {
+            "name": "Asad Zafar",
+            "role": "Champion"
+        },
+        {
+            "name": "Nick Mumford",
+            "role": "Champion"
+        },
+        {
+            "name": "Samina Ahmed",
+            "role": "Champion"
+        },
+        {
+            "name": "Oliver Madison",
+            "role": "Champion"
+        },
+        {
+            "name": "Toufi Saliba",
+            "role": "Champion"
+        },
+        {
+            "name": "Christian Exshaw",
+            "role": "Champion"
+        },
+        {
+            "name": "Advisors",
+            "role": ""
+        },
+        {
+            "name": "Sheldon Inwentash",
+            "role": "Canada"
+        },
+        {
+            "name": "Jakson Inwenstash",
+            "role": "Canada"
+        },
+        {
+            "name": "Bob Seeman",
+            "role": "Canada"
+        },
+        {
+            "name": "Paul Duffy",
+            "role": "Canada"
+        },
+        {
+            "name": "Emily Hanna",
+            "role": "Canada"
+        },
+        {
+            "name": "Rahul Narula",
+            "role": "Canada"
+        },
+        {
+            "name": "Andre Christensen",
+            "role": "Canada"
+        },
+        {
+            "name": "Jose Arrieta",
+            "role": "USA"
+        },
+        {
+            "name": "David Egts",
+            "role": "USA"
+        },
+        {
+            "name": "Dr David Martin",
+            "role": "USA"
+        },
+        {
+            "name": "Micah Walker",
+            "role": "Australia"
+        },
+        {
+            "name": "Asad Zafar",
+            "role": "UAE"
+        },
+        {
+            "name": "Jamie Wilks",
+            "role": "UAE"
+        },
+        {
+            "name": "Geoffrey Shuhkraft",
+            "role": "UAE, Romania"
+        },
+        {
+            "name": "Henry Chung",
+            "role": "South Korea"
+        },
+        {
+            "name": "Chul Hoon Choi",
+            "role": "South Korea"
+        },
+        {
+            "name": "Mr Wonki Min",
+            "role": "South Korea"
+        },
+        {
+            "name": "Bhume Bhumiratana",
+            "role": "Thalland"
+        },
+        {
+            "name": "Hazem Danny Al-Nakib",
+            "role": "UK"
+        },
+        {
+            "name": "John Crowcroft",
+            "role": "CRDC UK"
+        },
+        {
+            "name": "Partners",
+            "role": ""
+        },
+        {
+            "name": "Carl Travis",
+            "role": "Foundational"
+        },
+        {
+            "name": "Jose Arrieta",
+            "role": "Foundational"
+        },
+        {
+            "name": "Hassan Khan",
+            "role": "Foundational"
+        },
+        {
+            "name": "Nick Mumford",
+            "role": "Tusculum"
+        },
+        {
+            "name": "Dann Toliver",
+            "role": "Tusculum"
+        },
+        {
+            "name": "Brad Morrison",
+            "role": "Tusculum"
+        },
+        {
+            "name": "Susana Khan",
+            "role": "Genrus"
+        },
+        {
+            "name": "Shaghayegh Nameni",
+            "role": "Genrus"
+        },
+        {
+            "name": "Shermineh Salehi Esmati",
+            "role": "Genrus"
+        },
+        {
+            "name": "Zach Harder",
+            "role": "EVRtools"
+        },
+        {
+            "name": "Chase Benedict",
+            "role": "EVRtools"
+        },
+        {
+            "name": "Ahdam Wakil",
+            "role": "EVRtools"
+        },
+        {
+            "name": "Aly Dahya",
+            "role": "Base Alpha"
+        },
+        {
+            "name": "Asif Kamdar ",
+            "role": "Base Alpha"
+        },
+        {
+            "name": "Bal Brar",
+            "role": "Base Alpha"
+        },
+        {
+            "name": "Tunji Abiola",
+            "role": "Base Alpha"
+        },
+        {
+            "name": "Noorin Daya",
+            "role": "Base Alpha"
+        },
+        {
+            "name": "Camille Lahoud",
+            "role": "Base Alpha"
+        },
+        {
+            "name": "Aji Barot",
+            "role": "Base Alpha"
+        },
+        {
+            "name": "Len Kofman",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Lally Rementilla",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Mark Walden",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Alexandra Rule",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Adam Tepper",
+            "role": "Quantius v1.1"
+        },
+        {
+            "name": "Hassan Bhatti",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Svetlana Koretskaia",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Peter Waugh",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Derek Knop",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Diana Graham",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Theodoros Peridis",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Faye Thorek",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Bob Simon",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Misha Goikhberg",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Brian D'Costa",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Donald Ludlow",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "James Sheehy",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Nicole Shaeehy",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Samieh Walden",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Stephanie D'Costa",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Tim Patriquin",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Zemfira Khisaeva",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Samina Ahmed",
+            "role": "Quantius v1.0"
+        },
+        {
+            "name": "Gene Burrus",
+            "role": "Coalition for App Fairness"
+        },
+        {
+            "name": "Micah Walker",
+            "role": "Eage Origins Venture Studio"
+        },
+        {
+            "name": "Susana Khan",
+            "role": "Redeil"
+        },
+        {
+            "name": "Sandy Atkinson & Louis Trochatos",
+            "role": "SLAM IO Product Design"
+        },
+        {
+            "name": "Zemfira Khisaeva",
+            "role": "Zeather"
+        },
+        {
+            "name": "Abhishek Arora",
+            "role": "Startuptive"
+        },
+        {
+            "name": "Aly Dahya",
+            "role": "Edari Dubai"
+        },
+        {
+            "name": "Raphael Tae-Hwan Kim",
+            "role": "Meus Interior Degin"
+        },
+        {
+            "name": "Jamie Wilks",
+            "role": "House of Comms"
+        },
+        {
+            "name": "Irene Ng",
+            "role": "Hub Of All Things"
+        },
+        {
+            "name": "Alan Rodriguez",
+            "role": "Data Freedom Foundation"
+        },
+        {
+            "name": "Richard Farrell & Sean Gilman",
+            "role": "Velio Labs"
+        },
+        {
+            "name": "Our thanks to the following Corporations and Institutions",
+            "role": ""
+        },
+        {
+            "name": "Oracle",
+            "role": ""
+        },
+        {
+            "name": "Centroid",
+            "role": ""
+        },
+        {
+            "name": "Amazon AWS",
+            "role": ""
+        },
+        {
+            "name": "IBM",
+            "role": ""
+        },
+        {
+            "name": "Red Hat",
+            "role": ""
+        },
+        {
+            "name": "Hyundai BS&C",
+            "role": ""
+        },
+        {
+            "name": "HDAC Technologies AG",
+            "role": ""
+        },
+        {
+            "name": "HyundaiPay",
+            "role": ""
+        },
+        {
+            "name": "ARM Technologies",
+            "role": ""
+        },
+        {
+            "name": "GEMS Education",
+            "role": ""
+        },
+        {
+            "name": "JayMart Corporation",
+            "role": ""
+        },
+        {
+            "name": "Base Alpha",
+            "role": ""
+        },
+        {
+            "name": "Dream Pics Ltd",
+            "role": ""
+        },
+        {
+            "name": "Development Plus",
+            "role": ""
+        },
+        {
+            "name": "Eljovi Smart Trades",
+            "role": ""
+        },
+        {
+            "name": "Quickplay Media",
+            "role": ""
+        },
+        {
+            "name": "Unshackled Ventures",
+            "role": ""
+        },
+        {
+            "name": "ThreeD Capital",
+            "role": ""
+        },
+        {
+            "name": "VentureSouq",
+            "role": ""
+        },
+        {
+            "name": "J Ventures",
+            "role": ""
+        },
+        {
+            "name": "EcoMachine Ventures",
+            "role": ""
+        },
+        {
+            "name": "Rogers CyberSecure Catalyst",
+            "role": ""
+        },
+        {
+            "name": "Canadian Trade Commisioners Office",
+            "role": ""
+        },
+        {
+            "name": "Canadian Consulate in San Francisco",
+            "role": ""
+        },
+        {
+            "name": "MARS Discovery District",
+            "role": ""
+        },
+        {
+            "name": "UK Research and Innovation Ministry",
+            "role": ""
+        },
+        {
+            "name": "Stikeman Elliott LLP ",
+            "role": ""
+        },
+        {
+            "name": "Travers Thorp Alberga LLP",
+            "role": ""
+        },
+        {
+            "name": "Latham & Watkins LLP",
+            "role": ""
+        },
+        {
+            "name": "The Coalition for App Fairness",
+            "role": ""
+        },
+        {
+            "name": "Rising Tide Foundation",
+            "role": ""
+        },
+        {
+            "name": "DPP",
+            "role": ""
+        },
+        {
+            "name": "NABShow",
+            "role": ""
+        },
+        {
+            "name": "Fintech Meetup",
+            "role": ""
+        },
+        {
+            "name": "StreamTV Summit",
+            "role": ""
+        },
+        {
+            "name": "Hashtag Sports",
+            "role": ""
+        },
+        {
+            "name": "Innovators and Builders at the Developer Camp Hackathon",
+            "role": ""
+        },
+        {
+            "name": "Niye Turner",
+            "role": "UserFriendly TODAQ"
+        },
+        {
+            "name": "Barry Rowe",
+            "role": "GameStor"
+        },
+        {
+            "name": "Campbell",
+            "role": "HyperLocal"
+        },
+        {
+            "name": "Humberto Roa",
+            "role": "l00tQstR"
+        },
+        {
+            "name": "Elias Roa",
+            "role": "l00tQstR"
+        },
+        {
+            "name": "Kenji Kato",
+            "role": "l00tQstR"
+        },
+        {
+            "name": "Adryenn",
+            "role": "Lolly"
+        },
+        {
+            "name": "Bilahari",
+            "role": "GroundTruth"
+        },
+        {
+            "name": "Yash Narayan",
+            "role": "Deepwaste"
+        },
+        {
+            "name": "C Lee",
+            "role": "Mimik Tryout"
+        },
+        {
+            "name": "Henry Yu",
+            "role": "Mimik Tryout"
+        },
+        {
+            "name": "Dan Wood",
+            "role": "Ranked Choice Voting"
+        },
+        {
+            "name": "Marco Medrano Garay",
+            "role": "Ranked Choice Voting"
+        },
+        {
+            "name": "Avanika Krishnaswamy",
+            "role": "Ranked Choice Voting"
+        },
+        {
+            "name": "Cyrus Stoller",
+            "role": "Ranked Choice Voting"
+        },
+        {
+            "name": "Innovators and Builders at the  Cambridge Blockchain Society Hackathon",
+            "role": ""
+        },
+        {
+            "name": "Joel Daniel Thavapalan",
+            "role": "Blockchain4Life"
+        },
+        {
+            "name": "Bartosz Tarnowski",
+            "role": "Blockchain4Life"
+        },
+        {
+            "name": "Sumite",
+            "role": "Blockchain4Life"
+        },
+        {
+            "name": "Tamuka",
+            "role": "Blockchain4Life"
+        },
+        {
+            "name": "Yanhong",
+            "role": "Alice Project"
+        },
+        {
+            "name": "Joonas",
+            "role": "Alice Project"
+        },
+        {
+            "name": "MingYang",
+            "role": "Alice Project"
+        },
+        {
+            "name": "Edward Gent",
+            "role": "Alice Project"
+        },
+        {
+            "name": "Leon Chauffier",
+            "role": "Alice Project"
+        },
+        {
+            "name": "David Valaczkai",
+            "role": "Madare"
+        },
+        {
+            "name": "Matyas Horkay",
+            "role": "Madare"
+        },
+        {
+            "name": "Rebeka Dittrich",
+            "role": "Madare"
+        },
+        {
+            "name": "Jakub Grudzien",
+            "role": "Blokechain"
+        },
+        {
+            "name": "Piotr Kram",
+            "role": "Blokechain"
+        },
+        {
+            "name": "Manu Varma",
+            "role": "Blokechain"
+        },
+        {
+            "name": "John-Joseph Gray",
+            "role": "Blokechain"
+        },
+        {
+            "name": "Fin Brown",
+            "role": "Genesis"
+        },
+        {
+            "name": "Polina Fokicheva",
+            "role": "Genesis"
+        },
+        {
+            "name": "Dan Satkunas",
+            "role": "Genesis"
+        },
+        {
+            "name": "Dominic",
+            "role": "Genesis"
+        },
+        {
+            "name": "Jana Latzberg",
+            "role": "Genesis"
+        },
+        {
+            "name": "Iffat Islam",
+            "role": "Diamond"
+        },
+        {
+            "name": "Zeinab",
+            "role": "Diamond"
+        },
+        {
+            "name": "Hana",
+            "role": "Diamond"
+        },
+        {
+            "name": "Darren ORourke",
+            "role": "Blockscholes"
+        },
+        {
+            "name": "Alfonso Delgado",
+            "role": "Blockscholes"
+        },
+        {
+            "name": "Dallas Johnston",
+            "role": "Blockscholes"
+        },
+        {
+            "name": "Elena Pisa",
+            "role": "MedAccess & Block Journal"
+        },
+        {
+            "name": "Parley Ruogu Yang",
+            "role": "MedAccess & Block Journal"
+        },
+        {
+            "name": "Trevor Oakley",
+            "role": "MedAccess & Block Journal"
+        },
+        {
+            "name": "Agavi Stavropoulou Tatla",
+            "role": "MedAccess & Block Journal"
+        },
+        {
+            "name": "Robin Kohze",
+            "role": "MedAccess & Block Journal"
+        },
+        {
+            "name": "Innovators and Builders at the University of Toronto Hackathon",
+            "role": ""
+        },
+        {
+            "name": "Anthony Gruzkovnjak",
+            "role": "WordsWithStrangers"
+        },
+        {
+            "name": "Christa Wan",
+            "role": "WordsWithStrangers"
+        },
+        {
+            "name": "Muhammad Ali",
+            "role": "WordsWithStrangers"
+        },
+        {
+            "name": "Arman Akhmetov",
+            "role": "WordsWithStrangers"
+        },
+        {
+            "name": "Food & the Home away from Home Team",
+            "role": ""
+        },
+        {
+            "name": "Yorkville Crepes ",
+            "role": "The Ehrlund Family"
+        },
+        {
+            "name": "Alternity Hub",
+            "role": "Domi Omini"
+        },
+        {
+            "name": "5s Cafe",
+            "role": "Sahar Delmoradi"
+        },
+        {
+            "name": "Spirit Team",
+            "role": ""
+        },
+        {
+            "name": "Kepler",
+            "role": ""
+        },
+        {
+            "name": "Cicero",
+            "role": ""
+        },
+        {
+            "name": "Archibald",
+            "role": ""
+        },
+        {
+            "name": "Charles",
+            "role": ""
+        },
+        {
+            "name": "Grace",
+            "role": ""
+        },
+        {
+            "name": "Darling",
+            "role": ""
+        },
+        {
+            "name": "Supporters",
+            "role": ""
+        },
+        {
+            "name": "Kayhan Mirza",
+            "role": ""
+        },
+        {
+            "name": "Sunny & Jay Varkey",
+            "role": ""
+        },
+        {
+            "name": "Dahya Family",
+            "role": ""
+        },
+        {
+            "name": "Asad Zafar",
+            "role": ""
+        },
+        {
+            "name": "Mikhail 'Misha' Goikhberg",
+            "role": ""
+        },
+        {
+            "name": "Oleg Evdokimenko",
+            "role": ""
+        },
+        {
+            "name": "Sirangrong 'Wi' Chowiwatana",
+            "role": ""
+        },
+        {
+            "name": "Oliver Madison",
+            "role": ""
+        },
+        {
+            "name": "James Loder",
+            "role": ""
+        },
+        {
+            "name": "Nick Mumford",
+            "role": ""
+        },
+        {
+            "name": "Sumeet Valrani",
+            "role": ""
+        },
+        {
+            "name": "CK Yi",
+            "role": ""
+        },
+        {
+            "name": "Farokh & Dhun  Noria",
+            "role": ""
+        },
+        {
+            "name": "Samina Ahmed",
+            "role": ""
+        },
+        {
+            "name": "Anthony Paul Steven Erdody",
+            "role": ""
+        },
+        {
+            "name": "Taewoo Kim",
+            "role": ""
+        },
+        {
+            "name": "Faye & Michael Thorek",
+            "role": ""
+        },
+        {
+            "name": "HK Ahn ",
+            "role": ""
+        },
+        {
+            "name": "Sung A Kim ",
+            "role": ""
+        },
+        {
+            "name": "Chris Weisdorf",
+            "role": ""
+        },
+        {
+            "name": "HyoSuk Lee",
+            "role": ""
+        },
+        {
+            "name": "Timothy J Wicker",
+            "role": ""
+        },
+        {
+            "name": "Hassan Khan",
+            "role": ""
+        },
+        {
+            "name": "Robert Carter",
+            "role": ""
+        },
+        {
+            "name": "Paul Markey",
+            "role": ""
+        },
+        {
+            "name": "Paul Duffy",
+            "role": ""
+        },
+        {
+            "name": "Thomas Hodgson",
+            "role": ""
+        },
+        {
+            "name": "Duncan Rule",
+            "role": ""
+        },
+        {
+            "name": "Zahid Kamal",
+            "role": ""
+        },
+        {
+            "name": "Anthony Bevilaqua",
+            "role": ""
+        },
+        {
+            "name": "John M. Dinkel and Cynthia M. Dinkel",
+            "role": ""
+        },
+        {
+            "name": "Johan Van Vuuren",
+            "role": ""
+        },
+        {
+            "name": "Michael Alberga",
+            "role": ""
+        },
+        {
+            "name": "Thomas Kalafatis",
+            "role": ""
+        },
+        {
+            "name": "Anton Paul Erdody",
+            "role": ""
+        },
+        {
+            "name": "Daniel Saliba",
+            "role": ""
+        },
+        {
+            "name": "Anuj Jaitly",
+            "role": ""
+        },
+        {
+            "name": "Sumit Bhatia",
+            "role": ""
+        },
+        {
+            "name": "Emric Capital Corp",
+            "role": ""
+        },
+        {
+            "name": "Laurence Patrick Fischer",
+            "role": ""
+        },
+        {
+            "name": "Yasmin Dawood",
+            "role": ""
+        },
+        {
+            "name": "Ajay Bharat Candade & Anusha Mahalingam",
+            "role": ""
+        },
+        {
+            "name": "Nikhil Mohta",
+            "role": ""
+        },
+        {
+            "name": "Zuhair Raja Nuseibeh Taji El-Farouki",
+            "role": ""
+        },
+        {
+            "name": "Siddarth Nautiyal",
+            "role": ""
+        },
+        {
+            "name": "Arjun Ghose",
+            "role": ""
+        },
+        {
+            "name": "Navjeewan Jatinder Khosla",
+            "role": ""
+        },
+        {
+            "name": "Sung Soo Park",
+            "role": ""
+        },
+        {
+            "name": "Charlie Shin",
+            "role": ""
+        },
+        {
+            "name": "Bruce Plante",
+            "role": ""
+        },
+        {
+            "name": "Mohammad Ashraf Nazer",
+            "role": ""
+        },
+        {
+            "name": "Sheikh Ali Farooq",
+            "role": ""
+        },
+        {
+            "name": "Tariq Habib Malik",
+            "role": ""
+        },
+        {
+            "name": "Mohammad Ghaleb Abbasi",
+            "role": ""
+        },
+        {
+            "name": "Omar Zein",
+            "role": ""
+        },
+        {
+            "name": "Utsav Mitra",
+            "role": ""
+        },
+        {
+            "name": "Farrah Yassin",
+            "role": ""
+        },
+        {
+            "name": "Sanjeev Kapur",
+            "role": ""
+        },
+        {
+            "name": "Alexander Donaghue",
+            "role": ""
+        },
+        {
+            "name": "Balaji Vaidyanathan",
+            "role": ""
+        },
+        {
+            "name": "Maryam Kamal",
+            "role": ""
+        },
+        {
+            "name": "Tim Patriquin",
+            "role": ""
+        },
+        {
+            "name": "Susana Khan",
+            "role": ""
+        },
+        {
+            "name": "Ellen Slentz",
+            "role": ""
+        },
+        {
+            "name": "Stephen Toliver",
+            "role": ""
+        },
+        {
+            "name": "Nitin Gupta",
+            "role": ""
+        },
+        {
+            "name": "Isbelia Reyes",
+            "role": ""
+        },
+        {
+            "name": "Host Cities",
+            "role": ""
+        },
+        {
+            "name": "Toronto, Canada",
+            "role": ""
+        },
+        {
+            "name": "Boerne, USA",
+            "role": ""
+        },
+        {
+            "name": "Gold Coast, Australia",
+            "role": ""
+        },
+        {
+            "name": "Melbourne,  Australia",
+            "role": ""
+        },
+        {
+            "name": "Brisbane, Australia",
+            "role": ""
+        },
+        {
+            "name": "Georgetown, Grand Cayman",
+            "role": ""
+        },
+        {
+            "name": "New York, USA",
+            "role": ""
+        },
+        {
+            "name": "San Francisco, USA",
+            "role": ""
+        },
+        {
+            "name": "Bucharest, Romania",
+            "role": ""
+        },
+        {
+            "name": "London, UK",
+            "role": ""
+        },
+        {
+            "name": "Cambridge, UK",
+            "role": ""
+        },
+        {
+            "name": "Dubai, UAE",
+            "role": ""
+        },
+        {
+            "name": "Kuala Lumpur, Malaysia",
+            "role": ""
+        },
+        {
+            "name": "Singapore",
+            "role": ""
+        },
+        {
+            "name": "Seoul, South Korea",
+            "role": ""
+        },
+        {
+            "name": "Hong Kong, China",
+            "role": ""
+        },
+        {
+            "name": "In Memoriam",
+            "role": ""
+        },
+        {
+            "name": "Mark Walden",
+            "role": ""
+        },
+        {
+            "name": "Svetlana Koretskaia",
+            "role": ""
+        },
+        {
+            "name": "Adam Tepper",
+            "role": ""
+        },
+        {
+            "name": "Matthew Staikos",
+            "role": ""
+        },
+        {
+            "name": "To all our spouses, family, children and friends without whose love, support and contributions this would not have been possible",
+            "role": ""
+        },
+        {
+            "name": "TODAQ's mission is to make humans stronger, with integrity, and without judgment",
+            "role": ""
+        },
+        {
+            "name": "Join us",
+            "role": ""
+        }
+    ]
+}
